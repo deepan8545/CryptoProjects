@@ -4,7 +4,7 @@ import sys
 
 from maths.greatest_common_divisor import gcd_by_iterative
 
-from . import crypto_math, rabin_miller
+import crypto_math, rabin_miller
 
 
 def main() -> None:
